@@ -1,0 +1,1001 @@
+rank,name,singer,last_week,peak_pos,weeks_on_chart,chart_date,year,week
+1,Panda,Desiigner,10,10,0,2016-05-14,2016,19
+2,One Dance,Drake Featuring WizKid & Kyla,3,4,3,2016-05-14,2016,19
+3,7 Years,Lukas Graham,2,2,15,2016-05-14,2016,19
+4,Purple Rain,Prince And The Revolution,17,2,18,2016-05-14,2016,19
+5,I Took A Pill In Ibiza,Mike Posner,15,15,0,2016-05-14,2016,19
+6,Work,Rihanna Featuring Drake,4,1,14,2016-05-14,2016,19
+7,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,6,6,9,2016-05-14,2016,19
+8,When Doves Cry,Prince,20,1,23,2016-05-14,2016,19
+9,Pillowtalk,Zayn,8,1,13,2016-05-14,2016,19
+10,Formation,Beyonce,-,1,-,2016-05-14,2016,19
+11,Sorry,Beyonce,-,1,-,2016-05-14,2016,19
+12,No,Meghan Trainor,7,3,8,2016-05-14,2016,19
+13,Hold Up,Beyonce,-,1,-,2016-05-14,2016,19
+14,Don't Let Me Down,The Chainsmokers Featuring Daya,11,11,0,2016-05-14,2016,19
+15,Love Yourself,Justin Bieber,9,1,24,2016-05-14,2016,19
+16,Stressed Out,Twenty One Pilots,13,2,32,2016-05-14,2016,19
+17,"Me, Myself & I",G-Eazy x Bebe Rexha,10,7,26,2016-05-14,2016,19
+18,6 Inch,Beyonce Featuring The Weeknd,-,1,-,2016-05-14,2016,19
+19,My House,Flo Rida,12,4,25,2016-05-14,2016,19
+20,Little Red Corvette,Prince,29,6,24,2016-05-14,2016,19
+21,Dangerous Woman,Ariana Grande,15,10,7,2016-05-14,2016,19
+22,Needed Me,Rihanna,23,13,23,2016-05-14,2016,19
+23,Kiss,Prince And The Revolution,28,1,20,2016-05-14,2016,19
+24,Cake By The Ocean,DNCE,11,9,28,2016-05-14,2016,19
+25,Let's Go Crazy,Prince And The Revolution,39,1,21,2016-05-14,2016,19
+26,Never Forget You,Zara Larsson & MNEK,16,15,11,2016-05-14,2016,19
+27,1999,Prince,41,12,30,2016-05-14,2016,19
+28,Don't Hurt Yourself,Beyonce Featuring Jack White,-,1,-,2016-05-14,2016,19
+29,Low Life,Future Featuring The Weeknd,18,18,12,2016-05-14,2016,19
+30,Oui,Jeremih,22,19,17,2016-05-14,2016,19
+31,Sorry,Justin Bieber,21,1,27,2016-05-14,2016,19
+32,2 Phones,Kevin Gates,19,17,17,2016-05-14,2016,19
+33,Raspberry Beret,Prince And The Revolution,-,2,18,2016-05-14,2016,19
+34,Middle,DJ Snake Featuring Bipolar Sunshine,24,20,15,2016-05-14,2016,19
+35,Freedom,Beyonce Featuring Kendrick Lamar,-,1,-,2016-05-14,2016,19
+36,Close,Nick Jonas Featuring Tove Lo,26,26,5,2016-05-14,2016,19
+37,Pray You Catch Me,Beyonce,-,1,-,2016-05-14,2016,19
+38,All Night,Beyonce,-,1,-,2016-05-14,2016,19
+39,I Would Die 4 U,Prince And The Revolution,-,8,16,2016-05-14,2016,19
+40,Pop Style,Drake Featuring The Throne,25,16,4,2016-05-14,2016,19
+41,Daddy Lessons,Beyonce,-,1,-,2016-05-14,2016,19
+42,Let It Go,James Bay,31,30,19,2016-05-14,2016,19
+43,Sandcastles,Beyonce,-,1,-,2016-05-14,2016,19
+44,Exchange,Bryson Tiller,32,26,27,2016-05-14,2016,19
+45,Stitches,Shawn Mendes,30,4,49,2016-05-14,2016,19
+46,One Call Away,Charlie Puth,27,12,22,2016-05-14,2016,19
+47,Love Drought,Beyonce,-,1,-,2016-05-14,2016,19
+48,Roses,The Chainsmokers Featuring Rozes,33,6,28,2016-05-14,2016,19
+49,Jumpman,Drake & Future,34,12,32,2016-05-14,2016,19
+50,Don't,Bryson Tiller,37,13,31,2016-05-14,2016,19
+51,Somewhere On A Beach,Dierks Bentley,38,35,13,2016-05-14,2016,19
+52,Think Of You,Chris Young Duet With Cassadee Pope,45,40,11,2016-05-14,2016,19
+53,Humble And Kind,Tim McGraw,44,30,12,2016-05-14,2016,19
+54,Cheap Thrills,Sia Featuring Sean Paul,47,39,11,2016-05-14,2016,19
+55,Lost Boy,Ruth B,50,41,10,2016-05-14,2016,19
+56,Cut It,O.T. Genasis Featuring Young Dolph,43,43,10,2016-05-14,2016,19
+57,Wild Things,Alessia Cara,52,52,10,2016-05-14,2016,19
+58,Youth,Troye Sivan,49,23,13,2016-05-14,2016,19
+59,The Sound Of Silence,Disturbed,46,42,10,2016-05-14,2016,19
+60,Snapback,Old Dominion,51,50,14,2016-05-14,2016,19
+61,Came Here To Forget,Blake Shelton,53,40,8,2016-05-14,2016,19
+62,T-Shirt,Thomas Rhett,56,56,9,2016-05-14,2016,19
+63,Forward,Beyonce Featuring James Blake,-,1,-,2016-05-14,2016,19
+64,My Church,Maren Morris,61,50,14,2016-05-14,2016,19
+65,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,60,60,5,2016-05-14,2016,19
+66,Ride,Twenty One Pilots,74,7,74,2016-05-14,2016,19
+67,Kiss It Better,Rihanna,70,4,70,2016-05-14,2016,19
+68,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",65,65,5,2016-05-14,2016,19
+69,Mind Reader,Dustin Lynch,67,10,67,2016-05-14,2016,19
+70,Back To Sleep,Chris Brown,57,20,20,2016-05-14,2016,19
+71,Never Be Like You,Flume Featuring Kai,72,4,72,2016-05-14,2016,19
+72,You Should Be Here,Cole Swindell,55,31,20,2016-05-14,2016,19
+73,Summer Sixteen,Drake,66,6,13,2016-05-14,2016,19
+74,Team,Iggy Azalea,67,42,6,2016-05-14,2016,19
+75,Just Like Fire,P!nk,42,42,2,2016-05-14,2016,19
+76,Really Really,Kevin Gates,68,54,19,2016-05-14,2016,19
+77,Promise,Kid Ink Featuring Fetty Wap,63,57,11,2016-05-14,2016,19
+78,I Like The Sound Of That,Rascal Flatts,59,52,14,2016-05-14,2016,19
+79,Might Not,Belly Featuring The Weeknd,71,68,10,2016-05-14,2016,19
+80,Wicked,Future,73,73,2,2016-05-14,2016,19
+81,Confession,Florida Georgia Line,54,53,18,2016-05-14,2016,19
+82,"Father Stretch My Hands, Pt. 1",Kanye West,64,37,4,2016-05-14,2016,19
+83,Famous,Kanye West,62,34,4,2016-05-14,2016,19
+84,Wake Up,Fetty Wap,-,1,-,2016-05-14,2016,19
+85,Uber Everywhere,MadeinTYO,80,80,4,2016-05-14,2016,19
+86,Body,Dreezy Featuring Jeremih,77,77,6,2016-05-14,2016,19
+87,If It Ain't Love,Jason Derulo,84,84,3,2016-05-14,2016,19
+88,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,76,75,7,2016-05-14,2016,19
+89,Head Over Boots,Jon Pardi,79,79,9,2016-05-14,2016,19
+90,New Level,A$AP Ferg Featuring Future,-,3,-,2016-05-14,2016,19
+91,Company,Justin Bieber,58,53,12,2016-05-14,2016,19
+92,Acquainted,The Weeknd,75,60,18,2016-05-14,2016,19
+93,Piece By Piece,Kelly Clarkson,82,8,9,2016-05-14,2016,19
+94,Go Flex,Post Malone,-,1,-,2016-05-14,2016,19
+95,Law,Yo Gotti Featuring E-40,86,85,3,2016-05-14,2016,19
+96,I Hate U I Love U,gnash Featuring Olivia O'Brien,93,93,2,2016-05-14,2016,19
+97,Moolah,Young Greatness,85,85,4,2016-05-14,2016,19
+98,Lights Come On,Jason Aldean,90,43,4,2016-05-14,2016,19
+99,That Don't Sound Like You,Lee Brice,81,64,11,2016-05-14,2016,19
+100,Record Year,Eric Church,-,97,3,2016-05-14,2016,19
+1,One Dance,Drake Featuring WizKid & Kyla,2,5,2,2016-05-21,2016,20
+2,Panda,Desiigner,1,1,11,2016-05-21,2016,20
+3,7 Years,Lukas Graham,2,16,2,2016-05-21,2016,20
+4,I Took A Pill In Ibiza,Mike Posner,5,16,5,2016-05-21,2016,20
+5,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,7,10,7,2016-05-21,2016,20
+6,Work,Rihanna Featuring Drake,1,15,1,2016-05-21,2016,20
+7,Don't Let Me Down,The Chainsmokers Featuring Daya,14,12,14,2016-05-21,2016,20
+8,Pillowtalk,Zayn,9,1,14,2016-05-21,2016,20
+9,This Is What You Came For,Calvin Harris Featuring Rihanna,-,1,-,2016-05-21,2016,20
+10,Love Yourself,Justin Bieber,15,1,25,2016-05-21,2016,20
+11,Sorry,Beyonce,2,2,0,2016-05-21,2016,20
+12,No,Meghan Trainor,3,9,3,2016-05-21,2016,20
+13,Needed Me,Rihanna,22,14,22,2016-05-21,2016,20
+14,My House,Flo Rida,19,4,26,2016-05-21,2016,20
+15,Stressed Out,Twenty One Pilots,16,2,33,2016-05-21,2016,20
+16,Hold Up,Beyonce,13,13,2,2016-05-21,2016,20
+17,"Me, Myself & I",G-Eazy x Bebe Rexha,7,27,7,2016-05-21,2016,20
+18,Dangerous Woman,Ariana Grande,21,10,8,2016-05-21,2016,20
+19,Formation,Beyonce,10,10,2,2016-05-21,2016,20
+20,H.O.L.Y.,Florida Georgia Line,-,1,-,2016-05-21,2016,20
+21,Pop Style,Drake Featuring The Throne,40,16,5,2016-05-21,2016,20
+22,Cake By The Ocean,DNCE,24,9,29,2016-05-21,2016,20
+23,Never Forget You,Zara Larsson & MNEK,26,15,12,2016-05-21,2016,20
+24,Low Life,Future Featuring The Weeknd,29,18,13,2016-05-21,2016,20
+25,Oui,Jeremih,30,19,18,2016-05-21,2016,20
+26,2 Phones,Kevin Gates,32,17,18,2016-05-21,2016,20
+27,Sorry,Justin Bieber,31,1,28,2016-05-21,2016,20
+28,6 Inch,Beyonce Featuring The Weeknd,18,18,2,2016-05-21,2016,20
+29,My Boo,Ghost Town DJ's,-,32,-,2016-05-21,2016,20
+30,Middle,DJ Snake Featuring Bipolar Sunshine,34,20,16,2016-05-21,2016,20
+31,Close,Nick Jonas Featuring Tove Lo,36,26,6,2016-05-21,2016,20
+32,Let It Go,James Bay,42,30,20,2016-05-21,2016,20
+33,Hype,Drake,-,1,-,2016-05-21,2016,20
+34,Controlla,Drake,-,1,-,2016-05-21,2016,20
+35,Exchange,Bryson Tiller,44,26,28,2016-05-21,2016,20
+36,Stitches,Shawn Mendes,45,4,50,2016-05-21,2016,20
+37,Don't Hurt Yourself,Beyonce Featuring Jack White,28,28,2,2016-05-21,2016,20
+38,Grammys,Drake Featuring Future,-,1,-,2016-05-21,2016,20
+39,One Call Away,Charlie Puth,46,12,23,2016-05-21,2016,20
+40,Still Here,Drake,-,1,-,2016-05-21,2016,20
+41,Somewhere On A Beach,Dierks Bentley,51,35,14,2016-05-21,2016,20
+42,Lost Boy,Ruth B,55,41,11,2016-05-21,2016,20
+43,Roses,The Chainsmokers Featuring Rozes,48,6,29,2016-05-21,2016,20
+44,U With Me?,Drake,-,1,-,2016-05-21,2016,20
+45,9,Drake,-,1,-,2016-05-21,2016,20
+46,Don't,Bryson Tiller,50,13,32,2016-05-21,2016,20
+47,With You,Drake Featuring PARTYNEXTDOOR,-,1,-,2016-05-21,2016,20
+48,Cheap Thrills,Sia Featuring Sean Paul,54,39,12,2016-05-21,2016,20
+49,Childs Play,Drake,-,1,-,2016-05-21,2016,20
+50,Think Of You,Chris Young Duet With Cassadee Pope,52,40,12,2016-05-21,2016,20
+51,Humble And Kind,Tim McGraw,53,30,13,2016-05-21,2016,20
+52,Too Good,Drake Featuring Rihanna,-,1,-,2016-05-21,2016,20
+53,Feel No Ways,Drake,-,1,-,2016-05-21,2016,20
+54,Weston Road Flows,Drake,-,1,-,2016-05-21,2016,20
+55,Just Like Fire,P!nk,75,42,3,2016-05-21,2016,20
+56,Wild Things,Alessia Cara,57,52,11,2016-05-21,2016,20
+57,Cut It,O.T. Genasis Featuring Young Dolph,56,43,11,2016-05-21,2016,20
+58,Ride,Twenty One Pilots,66,8,66,2016-05-21,2016,20
+59,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,65,6,65,2016-05-21,2016,20
+60,Snapback,Old Dominion,50,15,50,2016-05-21,2016,20
+61,Redemption,Drake,-,1,-,2016-05-21,2016,20
+62,T-Shirt,Thomas Rhett,56,10,56,2016-05-21,2016,20
+63,Don't Mind,Kent Jones,-,1,-,2016-05-21,2016,20
+64,All Night,Beyonce,38,38,2,2016-05-21,2016,20
+65,Freedom,Beyonce Featuring Kendrick Lamar,35,35,2,2016-05-21,2016,20
+66,Daddy Lessons,Beyonce,41,41,2,2016-05-21,2016,20
+67,The Sound Of Silence,Disturbed,59,42,11,2016-05-21,2016,20
+68,Keep The Family Close,Drake,-,1,-,2016-05-21,2016,20
+69,Came Here To Forget,Blake Shelton,61,40,9,2016-05-21,2016,20
+70,Pray You Catch Me,Beyonce,37,37,2,2016-05-21,2016,20
+71,Sandcastles,Beyonce,43,43,2,2016-05-21,2016,20
+72,Faithful,Drake Featuring Pimp C & dvsn,-,1,-,2016-05-21,2016,20
+73,Love Drought,Beyonce,47,47,2,2016-05-21,2016,20
+74,True Colors,Zedd & Kesha,-,1,-,2016-05-21,2016,20
+75,Fire & Desire,Drake,-,1,-,2016-05-21,2016,20
+76,Kiss It Better,Rihanna,67,67,5,2016-05-21,2016,20
+77,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",68,65,6,2016-05-21,2016,20
+78,Mind Reader,Dustin Lynch,69,67,11,2016-05-21,2016,20
+79,Never Be Like You,Flume Featuring Kai,71,71,5,2016-05-21,2016,20
+80,My Church,Maren Morris,64,50,15,2016-05-21,2016,20
+81,Really Really,Kevin Gates,76,54,20,2016-05-21,2016,20
+82,Wicked,Future,80,73,3,2016-05-21,2016,20
+83,Youth,Troye Sivan,58,23,14,2016-05-21,2016,20
+84,Uber Everywhere,MadeinTYO,85,80,5,2016-05-21,2016,20
+85,Might Not,Belly Featuring The Weeknd,79,68,11,2016-05-21,2016,20
+86,Views,Drake,-,1,-,2016-05-21,2016,20
+87,If It Ain't Love,Jason Derulo,84,4,84,2016-05-21,2016,20
+88,Team,Iggy Azalea,74,42,7,2016-05-21,2016,20
+89,Summer Sixteen,Drake,73,6,14,2016-05-21,2016,20
+90,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,88,75,8,2016-05-21,2016,20
+91,Promise,Kid Ink Featuring Fetty Wap,77,57,12,2016-05-21,2016,20
+92,Body,Dreezy Featuring Jeremih,86,77,7,2016-05-21,2016,20
+93,Piece By Piece,Kelly Clarkson,8,10,8,2016-05-21,2016,20
+94,Head Over Boots,Jon Pardi,89,79,10,2016-05-21,2016,20
+95,Famous,Kanye West,83,34,5,2016-05-21,2016,20
+96,Confession,Florida Georgia Line,81,53,19,2016-05-21,2016,20
+97,I Like The Sound Of That,Rascal Flatts,78,52,15,2016-05-21,2016,20
+98,"Father Stretch My Hands, Pt. 1",Kanye West,82,37,5,2016-05-21,2016,20
+99,I Hate U I Love U,gnash Featuring Olivia O'Brien,96,93,3,2016-05-21,2016,20
+100,Law,Yo Gotti Featuring E-40,95,85,4,2016-05-21,2016,20
+1,Can't Stop The Feeling!,Justin Timberlake,-,-,0,2016-05-28,2016,21
+2,One Dance,Drake Featuring WizKid & Kyla,1,1,6,2016-05-28,2016,21
+3,Panda,Desiigner,2,1,12,2016-05-28,2016,21
+4,7 Years,Lukas Graham,3,2,17,2016-05-28,2016,21
+5,I Took A Pill In Ibiza,Mike Posner,4,4,17,2016-05-28,2016,21
+6,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,5,5,11,2016-05-28,2016,21
+7,Don't Let Me Down,The Chainsmokers Featuring Daya,13,13,0,2016-05-28,2016,21
+8,Work,Rihanna Featuring Drake,6,1,16,2016-05-28,2016,21
+9,Pillowtalk,Zayn,8,1,15,2016-05-28,2016,21
+10,Needed Me,Rihanna,13,15,13,2016-05-28,2016,21
+11,Love Yourself,Justin Bieber,10,1,26,2016-05-28,2016,21
+12,My House,Flo Rida,14,4,27,2016-05-28,2016,21
+13,Stressed Out,Twenty One Pilots,15,2,34,2016-05-28,2016,21
+14,Never Forget You,Zara Larsson & MNEK,23,13,23,2016-05-28,2016,21
+15,This Is What You Came For,Calvin Harris Featuring Rihanna,9,9,2,2016-05-28,2016,21
+16,Dangerous Woman,Ariana Grande,18,10,9,2016-05-28,2016,21
+17,Cake By The Ocean,DNCE,22,9,30,2016-05-28,2016,21
+18,"Me, Myself & I",G-Eazy x Bebe Rexha,17,7,28,2016-05-28,2016,21
+19,No,Meghan Trainor,12,3,10,2016-05-28,2016,21
+20,H.O.L.Y.,Florida Georgia Line,2,2,0,2016-05-28,2016,21
+21,Low Life,Future Featuring The Weeknd,24,18,14,2016-05-28,2016,21
+22,Oui,Jeremih,25,19,19,2016-05-28,2016,21
+23,Pop Style,Drake Featuring The Throne,21,16,6,2016-05-28,2016,21
+24,Sorry,Justin Bieber,27,1,29,2016-05-28,2016,21
+25,2 Phones,Kevin Gates,26,17,19,2016-05-28,2016,21
+26,Close,Nick Jonas Featuring Tove Lo,31,7,31,2016-05-28,2016,21
+27,My Boo,Ghost Town DJ's,29,33,29,2016-05-28,2016,21
+28,Let It Go,James Bay,32,21,32,2016-05-28,2016,21
+29,Middle,DJ Snake Featuring Bipolar Sunshine,30,20,17,2016-05-28,2016,21
+30,Just Like Fire,P!nk,55,4,55,2016-05-28,2016,21
+31,Sorry,Beyonce,11,11,3,2016-05-28,2016,21
+32,Exchange,Bryson Tiller,35,26,29,2016-05-28,2016,21
+33,Lost Boy,Ruth B,42,12,42,2016-05-28,2016,21
+34,Stitches,Shawn Mendes,36,4,51,2016-05-28,2016,21
+35,Controlla,Drake,34,34,2,2016-05-28,2016,21
+36,Don't Mind,Kent Jones,63,2,63,2016-05-28,2016,21
+37,Cut It,O.T. Genasis Featuring Young Dolph,57,12,57,2016-05-28,2016,21
+38,Cheap Thrills,Sia Featuring Sean Paul,48,13,48,2016-05-28,2016,21
+39,One Call Away,Charlie Puth,12,24,12,2016-05-28,2016,21
+40,Somewhere On A Beach,Dierks Bentley,41,35,15,2016-05-28,2016,21
+41,Too Good,Drake Featuring Rihanna,52,2,52,2016-05-28,2016,21
+42,Roses,The Chainsmokers Featuring Rozes,43,6,30,2016-05-28,2016,21
+43,Humble And Kind,Tim McGraw,51,30,14,2016-05-28,2016,21
+44,Came Here To Forget,Blake Shelton,69,40,10,2016-05-28,2016,21
+45,Ride,Twenty One Pilots,58,9,58,2016-05-28,2016,21
+46,Don't,Bryson Tiller,13,33,13,2016-05-28,2016,21
+47,Formation,Beyonce,19,10,3,2016-05-28,2016,21
+48,Hold Up,Beyonce,16,13,3,2016-05-28,2016,21
+49,Hype,Drake,33,33,2,2016-05-28,2016,21
+50,T-Shirt,Thomas Rhett,62,11,62,2016-05-28,2016,21
+51,Wild Things,Alessia Cara,56,12,56,2016-05-28,2016,21
+52,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",77,7,77,2016-05-28,2016,21
+53,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,59,7,59,2016-05-28,2016,21
+54,Think Of You,Chris Young Duet With Cassadee Pope,50,40,13,2016-05-28,2016,21
+55,Snapback,Old Dominion,60,50,16,2016-05-28,2016,21
+56,Still Here,Drake,40,40,2,2016-05-28,2016,21
+57,My Church,Maren Morris,80,50,16,2016-05-28,2016,21
+58,Mind Reader,Dustin Lynch,78,12,78,2016-05-28,2016,21
+59,Never Be Like You,Flume Featuring Kai,79,6,79,2016-05-28,2016,21
+60,The Sound Of Silence,Disturbed,67,42,12,2016-05-28,2016,21
+61,Really Really,Kevin Gates,81,54,21,2016-05-28,2016,21
+62,Kiss It Better,Rihanna,76,6,76,2016-05-28,2016,21
+63,Grammys,Drake Featuring Future,38,38,2,2016-05-28,2016,21
+64,Wasted Time,Keith Urban,-,3,-,2016-05-28,2016,21
+65,Wicked,Future,82,4,82,2016-05-28,2016,21
+66,Childs Play,Drake,49,49,2,2016-05-28,2016,21
+67,If It Ain't Love,Jason Derulo,87,5,87,2016-05-28,2016,21
+68,Uber Everywhere,MadeinTYO,84,6,84,2016-05-28,2016,21
+69,Might Not,Belly Featuring The Weeknd,85,68,12,2016-05-28,2016,21
+70,Go Ahead And Break My Heart,Blake Shelton Featuring Gwen Stefani,-,1,-,2016-05-28,2016,21
+71,With You,Drake Featuring PARTYNEXTDOOR,47,47,2,2016-05-28,2016,21
+72,Body,Dreezy Featuring Jeremih,92,8,92,2016-05-28,2016,21
+73,9,Drake,45,45,2,2016-05-28,2016,21
+74,Feel No Ways,Drake,53,53,2,2016-05-28,2016,21
+75,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,90,9,90,2016-05-28,2016,21
+76,Ain't Your Mama,Jennifer Lopez,-,2,-,2016-05-28,2016,21
+77,Head Over Boots,Jon Pardi,94,11,94,2016-05-28,2016,21
+78,I Hate U I Love U,gnash Featuring Olivia O'Brien,99,4,99,2016-05-28,2016,21
+79,Law,Yo Gotti Featuring E-40,100,5,100,2016-05-28,2016,21
+80,U With Me?,Drake,44,44,2,2016-05-28,2016,21
+81,Lights Come On,Jason Aldean,-,43,5,2016-05-28,2016,21
+82,6 Inch,Beyonce Featuring The Weeknd,28,18,3,2016-05-28,2016,21
+83,Into You,Ariana Grande,-,1,-,2016-05-28,2016,21
+84,Piece By Piece,Kelly Clarkson,93,8,11,2016-05-28,2016,21
+85,Record Year,Eric Church,-,4,-,2016-05-28,2016,21
+86,You Don't Own Me,Grace Featuring G-Eazy,-,2,-,2016-05-28,2016,21
+87,Moolah,Young Greatness,-,85,5,2016-05-28,2016,21
+88,Famous,Kanye West,95,34,6,2016-05-28,2016,21
+89,Promise,Kid Ink Featuring Fetty Wap,91,57,13,2016-05-28,2016,21
+90,Church Bells,Carrie Underwood,-,1,-,2016-05-28,2016,21
+91,Youth,Troye Sivan,83,23,15,2016-05-28,2016,21
+92,Fire & Desire,Drake,75,75,2,2016-05-28,2016,21
+93,Noise,Kenny Chesney,-,72,5,2016-05-28,2016,21
+94,"Father Stretch My Hands, Pt. 1",Kanye West,98,37,6,2016-05-28,2016,21
+95,I Like The Sound Of That,Rascal Flatts,97,52,16,2016-05-28,2016,21
+96,Faded,Alan Walker,-,91,3,2016-05-28,2016,21
+97,Confession,Florida Georgia Line,96,53,20,2016-05-28,2016,21
+98,Messin' Around,Pitbull Featuring Enrique Iglesias,-,70,2,2016-05-28,2016,21
+99,Team,Iggy Azalea,88,42,8,2016-05-28,2016,21
+100,Ophelia,The Lumineers,-,66,4,2016-05-28,2016,21
+1,One Dance,Drake Featuring WizKid & Kyla,2,7,2,2016-06-04,2016,22
+2,Panda,Desiigner,3,1,13,2016-06-04,2016,22
+3,Can't Stop The Feeling!,Justin Timberlake,1,1,2,2016-06-04,2016,22
+4,7 Years,Lukas Graham,2,18,2,2016-06-04,2016,22
+5,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,6,12,6,2016-06-04,2016,22
+6,Don't Let Me Down,The Chainsmokers Featuring Daya,7,14,7,2016-06-04,2016,22
+7,I Took A Pill In Ibiza,Mike Posner,5,4,18,2016-06-04,2016,22
+8,Work,Rihanna Featuring Drake,1,17,1,2016-06-04,2016,22
+9,Pillowtalk,Zayn,1,16,1,2016-06-04,2016,22
+10,Needed Me,Rihanna,16,16,0,2016-06-04,2016,22
+11,Love Yourself,Justin Bieber,1,27,1,2016-06-04,2016,22
+12,This Is What You Came For,Calvin Harris Featuring Rihanna,15,9,3,2016-06-04,2016,22
+13,Never Forget You,Zara Larsson & MNEK,14,14,14,2016-06-04,2016,22
+14,Dangerous Woman,Ariana Grande,16,10,10,2016-06-04,2016,22
+15,Stressed Out,Twenty One Pilots,13,2,35,2016-06-04,2016,22
+16,My House,Flo Rida,12,4,28,2016-06-04,2016,22
+17,Cake By The Ocean,DNCE,9,31,9,2016-06-04,2016,22
+18,"Me, Myself & I",G-Eazy x Bebe Rexha,7,29,7,2016-06-04,2016,22
+19,No,Meghan Trainor,3,11,3,2016-06-04,2016,22
+20,Low Life,Future Featuring The Weeknd,21,18,15,2016-06-04,2016,22
+21,H.O.L.Y.,Florida Georgia Line,20,20,3,2016-06-04,2016,22
+22,Controlla,Drake,35,3,35,2016-06-04,2016,22
+23,Pop Style,Drake Featuring The Throne,16,7,16,2016-06-04,2016,22
+24,Close,Nick Jonas Featuring Tove Lo,26,8,26,2016-06-04,2016,22
+25,Oui,Jeremih,22,19,20,2016-06-04,2016,22
+26,Just Like Fire,P!nk,30,5,30,2016-06-04,2016,22
+27,2 Phones,Kevin Gates,25,17,20,2016-06-04,2016,22
+28,Let It Go,James Bay,22,22,0,2016-06-04,2016,22
+29,Sorry,Justin Bieber,24,1,30,2016-06-04,2016,22
+30,Lost Boy,Ruth B,33,13,33,2016-06-04,2016,22
+31,Don't Mind,Kent Jones,36,3,36,2016-06-04,2016,22
+32,My Boo,Ghost Town DJ's,27,27,34,2016-06-04,2016,22
+33,Too Good,Drake Featuring Rihanna,41,3,41,2016-06-04,2016,22
+34,Cheap Thrills,Sia Featuring Sean Paul,38,14,38,2016-06-04,2016,22
+35,Hype,Drake,49,33,3,2016-06-04,2016,22
+36,Ride,Twenty One Pilots,45,10,45,2016-06-04,2016,22
+37,Exchange,Bryson Tiller,32,26,30,2016-06-04,2016,22
+38,Middle,DJ Snake Featuring Bipolar Sunshine,29,20,18,2016-06-04,2016,22
+39,Me Too,Meghan Trainor,-,1,-,2016-06-04,2016,22
+40,Sorry,Beyonce,31,11,4,2016-06-04,2016,22
+41,Stitches,Shawn Mendes,34,4,52,2016-06-04,2016,22
+42,One Call Away,Charlie Puth,39,12,25,2016-06-04,2016,22
+43,Cut It,O.T. Genasis Featuring Young Dolph,37,37,13,2016-06-04,2016,22
+44,Came Here To Forget,Blake Shelton,40,11,40,2016-06-04,2016,22
+45,Somewhere On A Beach,Dierks Bentley,40,35,16,2016-06-04,2016,22
+46,Humble And Kind,Tim McGraw,43,30,15,2016-06-04,2016,22
+47,Still Here,Drake,56,40,3,2016-06-04,2016,22
+48,Roses,The Chainsmokers Featuring Rozes,42,6,31,2016-06-04,2016,22
+49,Don't,Bryson Tiller,46,13,34,2016-06-04,2016,22
+50,Grammys,Drake Featuring Future,63,38,3,2016-06-04,2016,22
+51,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",52,8,52,2016-06-04,2016,22
+52,T-Shirt,Thomas Rhett,50,50,12,2016-06-04,2016,22
+53,Wild Things,Alessia Cara,51,51,13,2016-06-04,2016,22
+54,Snapback,Old Dominion,55,50,17,2016-06-04,2016,22
+55,Childs Play,Drake,66,49,3,2016-06-04,2016,22
+56,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,53,53,8,2016-06-04,2016,22
+57,Mind Reader,Dustin Lynch,58,13,58,2016-06-04,2016,22
+58,Never Be Like You,Flume Featuring Kai,59,7,59,2016-06-04,2016,22
+59,With You,Drake Featuring PARTYNEXTDOOR,71,47,3,2016-06-04,2016,22
+60,9,Drake,73,45,3,2016-06-04,2016,22
+61,Feel No Ways,Drake,74,53,3,2016-06-04,2016,22
+62,Wicked,Future,65,5,65,2016-06-04,2016,22
+63,Formation,Beyonce,47,10,4,2016-06-04,2016,22
+64,My Church,Maren Morris,57,50,17,2016-06-04,2016,22
+65,Think Of You,Chris Young Duet With Cassadee Pope,54,40,14,2016-06-04,2016,22
+66,The Sound Of Silence,Disturbed,60,42,13,2016-06-04,2016,22
+67,Wherever I Go,OneRepublic,-,1,-,2016-06-04,2016,22
+68,U With Me?,Drake,80,44,3,2016-06-04,2016,22
+69,The Fighter,Keith Urban Featuring Carrie Underwood,-,1,-,2016-06-04,2016,22
+70,Body,Dreezy Featuring Jeremih,72,9,72,2016-06-04,2016,22
+71,Uber Everywhere,MadeinTYO,68,68,7,2016-06-04,2016,22
+72,If It Ain't Love,Jason Derulo,67,67,6,2016-06-04,2016,22
+73,Wasted Time,Keith Urban,64,64,4,2016-06-04,2016,22
+74,Hold Up,Beyonce,48,13,4,2016-06-04,2016,22
+75,Fire & Desire,Drake,92,3,92,2016-06-04,2016,22
+76,I Hate U I Love U,gnash Featuring Olivia O'Brien,78,5,78,2016-06-04,2016,22
+77,You Don't Own Me,Grace Featuring G-Eazy,86,3,86,2016-06-04,2016,22
+78,Kiss It Better,Rihanna,62,62,7,2016-06-04,2016,22
+79,Church Bells,Carrie Underwood,90,2,90,2016-06-04,2016,22
+80,Might Not,Belly Featuring The Weeknd,69,68,13,2016-06-04,2016,22
+81,Head Over Boots,Jon Pardi,77,77,12,2016-06-04,2016,22
+82,Record Year,Eric Church,85,5,85,2016-06-04,2016,22
+83,Redemption,Drake,-,61,2,2016-06-04,2016,22
+84,Weston Road Flows,Drake,-,54,2,2016-06-04,2016,22
+85,Keep The Family Close,Drake,-,68,2,2016-06-04,2016,22
+86,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,-,1,-,2016-06-04,2016,22
+87,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,75,75,10,2016-06-04,2016,22
+88,Law,Yo Gotti Featuring E-40,79,79,6,2016-06-04,2016,22
+89,Piece By Piece,Kelly Clarkson,84,8,12,2016-06-04,2016,22
+90,Faithful,Drake Featuring Pimp C & dvsn,-,72,2,2016-06-04,2016,22
+91,Lights Come On,Jason Aldean,81,43,6,2016-06-04,2016,22
+92,THat Part,ScHoolboy Q Featuring Kanye West,-,1,-,2016-06-04,2016,22
+93,Blessings,Chance The Rapper Featuring Ty Dolla $ign,-,1,-,2016-06-04,2016,22
+94,I'm Sorry,Adam Wakefield,-,1,-,2016-06-04,2016,22
+95,Messin' Around,Pitbull Featuring Enrique Iglesias,98,70,3,2016-06-04,2016,22
+96,Moolah,Young Greatness,87,85,6,2016-06-04,2016,22
+97,Faded,Alan Walker,96,91,4,2016-06-04,2016,22
+98,Noise,Kenny Chesney,93,72,6,2016-06-04,2016,22
+99,Unsteady,X Ambassadors,-,1,-,2016-06-04,2016,22
+100,Promise,Kid Ink Featuring Fetty Wap,89,57,14,2016-06-04,2016,22
+1,One Dance,Drake Featuring WizKid & Kyla,8,8,0,2016-06-11,2016,23
+2,Panda,Desiigner,1,14,1,2016-06-11,2016,23
+3,Can't Stop The Feeling!,Justin Timberlake,1,1,0,2016-06-11,2016,23
+4,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,5,13,5,2016-06-11,2016,23
+5,Don't Let Me Down,The Chainsmokers Featuring Daya,6,15,6,2016-06-11,2016,23
+6,7 Years,Lukas Graham,4,2,19,2016-06-11,2016,23
+7,I Took A Pill In Ibiza,Mike Posner,4,19,4,2016-06-11,2016,23
+8,Dangerous Woman,Ariana Grande,14,11,14,2016-06-11,2016,23
+9,Needed Me,Rihanna,10,17,10,2016-06-11,2016,23
+10,Work,Rihanna Featuring Drake,8,1,18,2016-06-11,2016,23
+11,This Is What You Came For,Calvin Harris Featuring Rihanna,12,9,4,2016-06-11,2016,23
+12,Pillowtalk,Zayn,9,1,17,2016-06-11,2016,23
+13,Never Forget You,Zara Larsson & MNEK,15,15,0,2016-06-11,2016,23
+14,Cake By The Ocean,DNCE,17,9,32,2016-06-11,2016,23
+15,Close,Nick Jonas Featuring Tove Lo,24,9,24,2016-06-11,2016,23
+16,Just Like Fire,P!nk,26,6,26,2016-06-11,2016,23
+17,Love Yourself,Justin Bieber,11,1,28,2016-06-11,2016,23
+18,Stressed Out,Twenty One Pilots,15,2,36,2016-06-11,2016,23
+19,My House,Flo Rida,16,4,29,2016-06-11,2016,23
+20,"Me, Myself & I",G-Eazy x Bebe Rexha,18,7,30,2016-06-11,2016,23
+21,Controlla,Drake,22,4,22,2016-06-11,2016,23
+22,Low Life,Future Featuring The Weeknd,20,18,16,2016-06-11,2016,23
+23,H.O.L.Y.,Florida Georgia Line,21,20,4,2016-06-11,2016,23
+24,Cheap Thrills,Sia Featuring Sean Paul,34,15,34,2016-06-11,2016,23
+25,Don't Mind,Kent Jones,31,4,31,2016-06-11,2016,23
+26,Send My Love (To Your New Lover),Adele,-,2,-,2016-06-11,2016,23
+27,Let It Go,James Bay,28,23,28,2016-06-11,2016,23
+28,Pop Style,Drake Featuring The Throne,23,16,8,2016-06-11,2016,23
+29,Lost Boy,Ruth B,30,14,30,2016-06-11,2016,23
+30,Ride,Twenty One Pilots,36,11,36,2016-06-11,2016,23
+31,Oui,Jeremih,25,19,21,2016-06-11,2016,23
+32,2 Phones,Kevin Gates,27,17,21,2016-06-11,2016,23
+33,Sorry,Justin Bieber,29,1,31,2016-06-11,2016,23
+34,Too Good,Drake Featuring Rihanna,33,33,4,2016-06-11,2016,23
+35,No,Meghan Trainor,19,3,12,2016-06-11,2016,23
+36,Came Here To Forget,Blake Shelton,44,12,44,2016-06-11,2016,23
+37,Cut It,O.T. Genasis Featuring Young Dolph,43,14,43,2016-06-11,2016,23
+38,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",51,9,51,2016-06-11,2016,23
+39,Sorry,Beyonce,40,11,5,2016-06-11,2016,23
+40,My Boo,Ghost Town DJ's,32,27,35,2016-06-11,2016,23
+41,Me Too,Meghan Trainor,39,39,2,2016-06-11,2016,23
+42,Exchange,Bryson Tiller,37,26,31,2016-06-11,2016,23
+43,Middle,DJ Snake Featuring Bipolar Sunshine,38,20,19,2016-06-11,2016,23
+44,Humble And Kind,Tim McGraw,46,30,16,2016-06-11,2016,23
+45,Hype,Drake,35,33,4,2016-06-11,2016,23
+46,One Call Away,Charlie Puth,42,12,26,2016-06-11,2016,23
+47,T-Shirt,Thomas Rhett,52,13,52,2016-06-11,2016,23
+48,Somewhere On A Beach,Dierks Bentley,45,35,17,2016-06-11,2016,23
+49,The Sound Of Silence,Disturbed,66,42,14,2016-06-11,2016,23
+50,Wild Things,Alessia Cara,53,14,53,2016-06-11,2016,23
+51,Into You,Ariana Grande,-,2,-,2016-06-11,2016,23
+52,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,56,9,56,2016-06-11,2016,23
+53,Snapback,Old Dominion,54,50,18,2016-06-11,2016,23
+54,Never Be Like You,Flume Featuring Kai,58,8,58,2016-06-11,2016,23
+55,Still Here,Drake,47,40,4,2016-06-11,2016,23
+56,Grammys,Drake Featuring Future,50,38,4,2016-06-11,2016,23
+57,Childs Play,Drake,55,49,4,2016-06-11,2016,23
+58,Wicked,Future,62,6,62,2016-06-11,2016,23
+59,I Hate U I Love U,gnash Featuring Olivia O'Brien,76,6,76,2016-06-11,2016,23
+60,My Church,Maren Morris,64,50,18,2016-06-11,2016,23
+61,Uber Everywhere,MadeinTYO,71,8,71,2016-06-11,2016,23
+62,Body,Dreezy Featuring Jeremih,70,10,70,2016-06-11,2016,23
+63,Mind Reader,Dustin Lynch,57,57,14,2016-06-11,2016,23
+64,With You,Drake Featuring PARTYNEXTDOOR,59,47,4,2016-06-11,2016,23
+65,Feel No Ways,Drake,61,53,4,2016-06-11,2016,23
+66,Messin' Around,Pitbull Featuring Enrique Iglesias,95,4,95,2016-06-11,2016,23
+67,Church Bells,Carrie Underwood,79,3,79,2016-06-11,2016,23
+68,You Don't Own Me,Grace Featuring G-Eazy,77,4,77,2016-06-11,2016,23
+69,Think Of You,Chris Young Duet With Cassadee Pope,65,40,15,2016-06-11,2016,23
+70,Wasted Time,Keith Urban,73,64,5,2016-06-11,2016,23
+71,Head Over Boots,Jon Pardi,81,13,81,2016-06-11,2016,23
+72,9,Drake,60,45,4,2016-06-11,2016,23
+73,Lonesome Broken And Blue,Adam Wakefield,-,1,-,2016-06-11,2016,23
+74,Record Year,Eric Church,82,6,82,2016-06-11,2016,23
+75,Formation,Beyonce,63,10,5,2016-06-11,2016,23
+76,If It Ain't Love,Jason Derulo,72,67,7,2016-06-11,2016,23
+77,Lights Come On,Jason Aldean,91,43,7,2016-06-11,2016,23
+78,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,87,75,11,2016-06-11,2016,23
+79,Might Not,Belly Featuring The Weeknd,80,68,14,2016-06-11,2016,23
+80,Faded,Alan Walker,97,5,97,2016-06-11,2016,23
+81,Wherever I Go,OneRepublic,67,67,2,2016-06-11,2016,23
+82,U With Me?,Drake,68,44,4,2016-06-11,2016,23
+83,Love On The Brain,Rihanna,-,1,-,2016-06-11,2016,23
+84,Law,Yo Gotti Featuring E-40,88,79,7,2016-06-11,2016,23
+85,Fire & Desire,Drake,75,75,4,2016-06-11,2016,23
+86,Unsteady,X Ambassadors,99,2,99,2016-06-11,2016,23
+87,Youth,Troye Sivan,-,23,16,2016-06-11,2016,23
+88,Moolah,Young Greatness,96,85,7,2016-06-11,2016,23
+89,Piece By Piece,Kelly Clarkson,8,13,8,2016-06-11,2016,23
+90,From The Ground Up,Dan + Shay,-,1,-,2016-06-11,2016,23
+91,Kiss It Better,Rihanna,78,62,8,2016-06-11,2016,23
+92,Noise,Kenny Chesney,98,72,7,2016-06-11,2016,23
+93,Hold Up,Beyonce,74,13,5,2016-06-11,2016,23
+94,Every Breath You Take,Hannah Huston,-,1,-,2016-06-11,2016,23
+95,Redemption,Drake,83,61,3,2016-06-11,2016,23
+96,Gold,Kiiara,-,1,-,2016-06-11,2016,23
+97,Ophelia,The Lumineers,-,66,5,2016-06-11,2016,23
+98,With You Tonight / Hasta El Amanecer,Nicky Jam,-,1,-,2016-06-11,2016,23
+99,Wake Up,Fetty Wap,-,84,2,2016-06-11,2016,23
+100,Down That Road,Alisan Porter,-,1,-,2016-06-11,2016,23
+1,One Dance,Drake Featuring WizKid & Kyla,9,9,0,2016-06-18,2016,24
+2,Panda,Desiigner,1,15,1,2016-06-18,2016,24
+3,Can't Stop The Feeling!,Justin Timberlake,1,4,1,2016-06-18,2016,24
+4,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,14,14,0,2016-06-18,2016,24
+5,Don't Let Me Down,The Chainsmokers Featuring Daya,16,16,0,2016-06-18,2016,24
+6,7 Years,Lukas Graham,2,20,2,2016-06-18,2016,24
+7,I Took A Pill In Ibiza,Mike Posner,4,20,4,2016-06-18,2016,24
+8,Needed Me,Rihanna,9,18,9,2016-06-18,2016,24
+9,This Is What You Came For,Calvin Harris Featuring Rihanna,11,5,11,2016-06-18,2016,24
+10,Just Like Fire,P!nk,16,7,16,2016-06-18,2016,24
+11,Dangerous Woman,Ariana Grande,8,8,12,2016-06-18,2016,24
+12,Work,Rihanna Featuring Drake,10,1,19,2016-06-18,2016,24
+13,Don't Mind,Kent Jones,25,5,25,2016-06-18,2016,24
+14,Never Forget You,Zara Larsson & MNEK,13,13,16,2016-06-18,2016,24
+15,Pillowtalk,Zayn,12,1,18,2016-06-18,2016,24
+16,Love Yourself,Justin Bieber,17,1,29,2016-06-18,2016,24
+17,Cake By The Ocean,DNCE,14,9,33,2016-06-18,2016,24
+18,Stressed Out,Twenty One Pilots,2,37,2,2016-06-18,2016,24
+19,Cheap Thrills,Sia Featuring Sean Paul,24,16,24,2016-06-18,2016,24
+20,My House,Flo Rida,19,4,30,2016-06-18,2016,24
+21,H.O.L.Y.,Florida Georgia Line,23,20,5,2016-06-18,2016,24
+22,Ride,Twenty One Pilots,30,12,30,2016-06-18,2016,24
+23,Low Life,Future Featuring The Weeknd,22,18,17,2016-06-18,2016,24
+24,"Me, Myself & I",G-Eazy x Bebe Rexha,20,7,31,2016-06-18,2016,24
+25,Controlla,Drake,21,21,5,2016-06-18,2016,24
+26,Close,Nick Jonas Featuring Tove Lo,15,15,10,2016-06-18,2016,24
+27,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",38,10,38,2016-06-18,2016,24
+28,Lost Boy,Ruth B,29,15,29,2016-06-18,2016,24
+29,Let It Go,James Bay,27,27,24,2016-06-18,2016,24
+30,Too Good,Drake Featuring Rihanna,34,5,34,2016-06-18,2016,24
+31,Sorry,Justin Bieber,33,1,32,2016-06-18,2016,24
+32,Send My Love (To Your New Lover),Adele,26,26,3,2016-06-18,2016,24
+33,Oui,Jeremih,31,19,22,2016-06-18,2016,24
+34,2 Phones,Kevin Gates,32,17,22,2016-06-18,2016,24
+35,Pop Style,Drake Featuring The Throne,28,16,9,2016-06-18,2016,24
+36,Cut It,O.T. Genasis Featuring Young Dolph,37,15,37,2016-06-18,2016,24
+37,Me Too,Meghan Trainor,41,3,41,2016-06-18,2016,24
+38,Somewhere On A Beach,Dierks Bentley,48,35,18,2016-06-18,2016,24
+39,Exchange,Bryson Tiller,42,26,32,2016-06-18,2016,24
+40,Sorry,Beyonce,39,11,6,2016-06-18,2016,24
+41,T-Shirt,Thomas Rhett,47,14,47,2016-06-18,2016,24
+42,Came Here To Forget,Blake Shelton,36,36,13,2016-06-18,2016,24
+43,No,Meghan Trainor,35,3,13,2016-06-18,2016,24
+44,Middle,DJ Snake Featuring Bipolar Sunshine,43,20,20,2016-06-18,2016,24
+45,Humble And Kind,Tim McGraw,44,30,17,2016-06-18,2016,24
+46,Never Be Like You,Flume Featuring Kai,54,9,54,2016-06-18,2016,24
+47,My Boo,Ghost Town DJ's,40,27,36,2016-06-18,2016,24
+48,Into You,Ariana Grande,51,3,51,2016-06-18,2016,24
+49,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,52,10,52,2016-06-18,2016,24
+50,Wild Things,Alessia Cara,15,15,0,2016-06-18,2016,24
+51,Wicked,Future,58,7,58,2016-06-18,2016,24
+52,Really Really,Kevin Gates,-,22,-,2016-06-18,2016,24
+53,The Sound Of Silence,Disturbed,49,42,15,2016-06-18,2016,24
+54,Hype,Drake,45,33,5,2016-06-18,2016,24
+55,Snapback,Old Dominion,53,50,19,2016-06-18,2016,24
+56,Uber Everywhere,MadeinTYO,61,9,61,2016-06-18,2016,24
+57,My Church,Maren Morris,60,50,19,2016-06-18,2016,24
+58,Wake Up,Fetty Wap,99,3,99,2016-06-18,2016,24
+59,I Hate U I Love U,gnash Featuring Olivia O'Brien,7,7,0,2016-06-18,2016,24
+60,Childs Play,Drake,57,49,5,2016-06-18,2016,24
+61,Still Here,Drake,55,40,5,2016-06-18,2016,24
+62,Body,Dreezy Featuring Jeremih,11,11,0,2016-06-18,2016,24
+63,Church Bells,Carrie Underwood,67,4,67,2016-06-18,2016,24
+64,Lights Come On,Jason Aldean,77,43,8,2016-06-18,2016,24
+65,Wasted Time,Keith Urban,70,64,6,2016-06-18,2016,24
+66,Record Year,Eric Church,74,7,74,2016-06-18,2016,24
+67,Grammys,Drake Featuring Future,56,38,5,2016-06-18,2016,24
+68,Head Over Boots,Jon Pardi,71,14,71,2016-06-18,2016,24
+69,Messin' Around,Pitbull Featuring Enrique Iglesias,66,66,5,2016-06-18,2016,24
+70,Unsteady,X Ambassadors,86,3,86,2016-06-18,2016,24
+71,You Don't Own Me,Grace Featuring G-Eazy,68,68,5,2016-06-18,2016,24
+72,Mind Reader,Dustin Lynch,63,57,15,2016-06-18,2016,24
+73,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,78,12,78,2016-06-18,2016,24
+74,Kill Em With Kindness,Selena Gomez,-,1,-,2016-06-18,2016,24
+75,Think Of You,Chris Young Duet With Cassadee Pope,69,40,16,2016-06-18,2016,24
+76,Might Not,Belly Featuring The Weeknd,79,68,15,2016-06-18,2016,24
+77,With You,Drake Featuring PARTYNEXTDOOR,64,47,5,2016-06-18,2016,24
+78,Wherever I Go,OneRepublic,81,67,3,2016-06-18,2016,24
+79,Noise,Kenny Chesney,92,72,8,2016-06-18,2016,24
+80,Feel No Ways,Drake,65,53,5,2016-06-18,2016,24
+81,Law,Yo Gotti Featuring E-40,84,79,8,2016-06-18,2016,24
+82,Formation,Beyonce,75,10,6,2016-06-18,2016,24
+83,Gold,Kiiara,96,2,96,2016-06-18,2016,24
+84,If It Ain't Love,Jason Derulo,76,67,8,2016-06-18,2016,24
+85,Moolah,Young Greatness,88,8,88,2016-06-18,2016,24
+86,From The Ground Up,Dan + Shay,90,2,90,2016-06-18,2016,24
+87,9,Drake,72,45,5,2016-06-18,2016,24
+88,Faded,Alan Walker,80,80,6,2016-06-18,2016,24
+89,American Country Love Song,Jake Owen,-,83,2,2016-06-18,2016,24
+90,Youth,Troye Sivan,87,23,17,2016-06-18,2016,24
+91,Piece By Piece,Kelly Clarkson,89,8,14,2016-06-18,2016,24
+92,Peter Pan,Kelsea Ballerini,-,1,-,2016-06-18,2016,24
+93,Make You Miss Me,Sam Hunt,-,1,-,2016-06-18,2016,24
+94,Kiss It Better,Rihanna,91,62,9,2016-06-18,2016,24
+95,With You Tonight / Hasta El Amanecer,Nicky Jam,98,2,98,2016-06-18,2016,24
+96,Ophelia,The Lumineers,97,66,6,2016-06-18,2016,24
+97,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,-,86,2,2016-06-18,2016,24
+98,Different For Girls,Dierks Bentley Featuring Elle King,-,1,-,2016-06-18,2016,24
+99,Fix,Chris Lane,-,1,-,2016-06-18,2016,24
+100,"Sit Still, Look Pretty",Daya,-,1,-,2016-06-18,2016,24
+1,One Dance,Drake Featuring WizKid & Kyla,10,10,0,2016-06-25,2016,25
+2,Panda,Desiigner,1,16,1,2016-06-25,2016,25
+3,Can't Stop The Feeling!,Justin Timberlake,1,5,1,2016-06-25,2016,25
+4,Don't Let Me Down,The Chainsmokers Featuring Daya,5,17,5,2016-06-25,2016,25
+5,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,4,4,15,2016-06-25,2016,25
+6,7 Years,Lukas Graham,2,21,2,2016-06-25,2016,25
+7,This Is What You Came For,Calvin Harris Featuring Rihanna,9,6,9,2016-06-25,2016,25
+8,I Took A Pill In Ibiza,Mike Posner,7,4,21,2016-06-25,2016,25
+9,Needed Me,Rihanna,8,8,19,2016-06-25,2016,25
+10,Just Like Fire,P!nk,8,8,0,2016-06-25,2016,25
+11,Don't Mind,Kent Jones,13,6,13,2016-06-25,2016,25
+12,Work,Rihanna Featuring Drake,1,20,1,2016-06-25,2016,25
+13,Cheap Thrills,Sia Featuring Sean Paul,19,17,19,2016-06-25,2016,25
+14,Dangerous Woman,Ariana Grande,11,8,13,2016-06-25,2016,25
+15,Ride,Twenty One Pilots,22,13,22,2016-06-25,2016,25
+16,Never Forget You,Zara Larsson & MNEK,14,13,17,2016-06-25,2016,25
+17,H.O.L.Y.,Florida Georgia Line,21,6,21,2016-06-25,2016,25
+18,For Free,DJ Khaled Featuring Drake,-,1,-,2016-06-25,2016,25
+19,Love Yourself,Justin Bieber,16,1,30,2016-06-25,2016,25
+20,Pillowtalk,Zayn,15,1,19,2016-06-25,2016,25
+21,Stressed Out,Twenty One Pilots,18,2,38,2016-06-25,2016,25
+22,Cake By The Ocean,DNCE,17,9,34,2016-06-25,2016,25
+23,My House,Flo Rida,20,4,31,2016-06-25,2016,25
+24,Controlla,Drake,25,21,6,2016-06-25,2016,25
+25,Lost Boy,Ruth B,28,16,28,2016-06-25,2016,25
+26,Low Life,Future Featuring The Weeknd,23,18,18,2016-06-25,2016,25
+27,Close,Nick Jonas Featuring Tove Lo,26,15,11,2016-06-25,2016,25
+28,Send My Love (To Your New Lover),Adele,32,26,4,2016-06-25,2016,25
+29,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",27,27,11,2016-06-25,2016,25
+30,"Me, Myself & I",G-Eazy x Bebe Rexha,24,7,32,2016-06-25,2016,25
+31,Me Too,Meghan Trainor,37,4,37,2016-06-25,2016,25
+32,Let It Go,James Bay,29,27,25,2016-06-25,2016,25
+33,Too Good,Drake Featuring Rihanna,30,30,6,2016-06-25,2016,25
+34,Treat You Better,Shawn Mendes,-,1,-,2016-06-25,2016,25
+35,Oui,Jeremih,33,19,23,2016-06-25,2016,25
+36,Sorry,Justin Bieber,31,1,33,2016-06-25,2016,25
+37,Cut It,O.T. Genasis Featuring Young Dolph,36,36,16,2016-06-25,2016,25
+38,Exchange,Bryson Tiller,39,26,33,2016-06-25,2016,25
+39,2 Phones,Kevin Gates,34,17,23,2016-06-25,2016,25
+40,Humble And Kind,Tim McGraw,45,30,18,2016-06-25,2016,25
+41,Sorry,Beyonce,40,11,7,2016-06-25,2016,25
+42,Pop Style,Drake Featuring The Throne,35,16,10,2016-06-25,2016,25
+43,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,49,11,49,2016-06-25,2016,25
+44,Wicked,Future,51,8,51,2016-06-25,2016,25
+45,T-Shirt,Thomas Rhett,41,41,15,2016-06-25,2016,25
+46,Never Be Like You,Flume Featuring Kai,10,10,0,2016-06-25,2016,25
+47,Into You,Ariana Grande,48,4,48,2016-06-25,2016,25
+48,Unsteady,X Ambassadors,70,4,70,2016-06-25,2016,25
+49,Middle,DJ Snake Featuring Bipolar Sunshine,44,20,21,2016-06-25,2016,25
+50,No,Meghan Trainor,43,3,14,2016-06-25,2016,25
+51,Wild Things,Alessia Cara,50,50,16,2016-06-25,2016,25
+52,Kill Em With Kindness,Selena Gomez,74,2,74,2016-06-25,2016,25
+53,Really Really,Kevin Gates,52,52,23,2016-06-25,2016,25
+54,Came Here To Forget,Blake Shelton,42,36,14,2016-06-25,2016,25
+55,Uber Everywhere,MadeinTYO,56,10,56,2016-06-25,2016,25
+56,My Church,Maren Morris,57,50,20,2016-06-25,2016,25
+57,Somewhere On A Beach,Dierks Bentley,38,35,19,2016-06-25,2016,25
+58,Church Bells,Carrie Underwood,63,5,63,2016-06-25,2016,25
+59,From The Ground Up,Dan + Shay,86,3,86,2016-06-25,2016,25
+60,Lights Come On,Jason Aldean,64,43,9,2016-06-25,2016,25
+61,I Hate U I Love U,gnash Featuring Olivia O'Brien,59,59,8,2016-06-25,2016,25
+62,Wasted Time,Keith Urban,65,7,65,2016-06-25,2016,25
+63,Wake Up,Fetty Wap,58,58,4,2016-06-25,2016,25
+64,Messin' Around,Pitbull Featuring Enrique Iglesias,69,6,69,2016-06-25,2016,25
+65,Body,Dreezy Featuring Jeremih,62,62,12,2016-06-25,2016,25
+66,The Sound Of Silence,Disturbed,53,42,16,2016-06-25,2016,25
+67,Head Over Boots,Jon Pardi,68,15,68,2016-06-25,2016,25
+68,Record Year,Eric Church,66,66,8,2016-06-25,2016,25
+69,Hype,Drake,54,33,6,2016-06-25,2016,25
+70,Snapback,Old Dominion,55,50,20,2016-06-25,2016,25
+71,You Don't Own Me,Grace Featuring G-Eazy,68,6,68,2016-06-25,2016,25
+72,Childs Play,Drake,60,49,6,2016-06-25,2016,25
+73,Still Here,Drake,61,40,6,2016-06-25,2016,25
+74,Wherever I Go,OneRepublic,78,67,4,2016-06-25,2016,25
+75,Nothing Is Promised,Mike WiLL Made-It x Rihanna,-,1,-,2016-06-25,2016,25
+76,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,73,73,13,2016-06-25,2016,25
+77,Grammys,Drake Featuring Future,67,38,6,2016-06-25,2016,25
+78,Think Of You,Chris Young Duet With Cassadee Pope,75,40,17,2016-06-25,2016,25
+79,Gold,Kiiara,83,3,83,2016-06-25,2016,25
+80,Noise,Kenny Chesney,79,72,9,2016-06-25,2016,25
+81,Peter Pan,Kelsea Ballerini,92,2,92,2016-06-25,2016,25
+82,Make You Miss Me,Sam Hunt,93,2,93,2016-06-25,2016,25
+83,American Country Love Song,Jake Owen,89,3,89,2016-06-25,2016,25
+84,Might Not,Belly Featuring The Weeknd,76,68,16,2016-06-25,2016,25
+85,With You,Drake Featuring PARTYNEXTDOOR,77,47,6,2016-06-25,2016,25
+86,"Sit Still, Look Pretty",Daya,100,2,100,2016-06-25,2016,25
+87,Mind Reader,Dustin Lynch,72,57,16,2016-06-25,2016,25
+88,Formation,Beyonce,82,10,7,2016-06-25,2016,25
+89,With You Tonight / Hasta El Amanecer,Nicky Jam,95,3,95,2016-06-25,2016,25
+90,Ophelia,The Lumineers,96,66,7,2016-06-25,2016,25
+91,Feel No Ways,Drake,80,53,6,2016-06-25,2016,25
+92,Faded,Alan Walker,88,80,7,2016-06-25,2016,25
+93,Fix,Chris Lane,99,2,99,2016-06-25,2016,25
+94,Law,Yo Gotti Featuring E-40,81,79,9,2016-06-25,2016,25
+95,Piece By Piece,Kelly Clarkson,91,8,15,2016-06-25,2016,25
+96,Kiss It Better,Rihanna,94,62,10,2016-06-25,2016,25
+97,"Father Stretch My Hands, Pt. 1",Kanye West,-,37,7,2016-06-25,2016,25
+98,Moolah,Young Greatness,85,85,9,2016-06-25,2016,25
+99,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,97,86,3,2016-06-25,2016,25
+100,Youth,Troye Sivan,90,23,18,2016-06-25,2016,25
+1,One Dance,Drake Featuring WizKid & Kyla,11,11,0,2016-07-02,2016,26
+2,Can't Stop The Feeling!,Justin Timberlake,3,1,6,2016-07-02,2016,26
+3,Panda,Desiigner,2,1,17,2016-07-02,2016,26
+4,Don't Let Me Down,The Chainsmokers Featuring Daya,18,18,0,2016-07-02,2016,26
+5,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,4,16,4,2016-07-02,2016,26
+6,This Is What You Came For,Calvin Harris Featuring Rihanna,7,7,7,2016-07-02,2016,26
+7,Needed Me,Rihanna,9,20,9,2016-07-02,2016,26
+8,Cheap Thrills,Sia Featuring Sean Paul,13,18,13,2016-07-02,2016,26
+9,I Took A Pill In Ibiza,Mike Posner,8,4,22,2016-07-02,2016,26
+10,Don't Mind,Kent Jones,11,7,11,2016-07-02,2016,26
+11,7 Years,Lukas Graham,6,2,22,2016-07-02,2016,26
+12,Just Like Fire,P!nk,10,10,9,2016-07-02,2016,26
+13,Ride,Twenty One Pilots,15,14,15,2016-07-02,2016,26
+14,Close,Nick Jonas Featuring Tove Lo,27,12,27,2016-07-02,2016,26
+15,Dangerous Woman,Ariana Grande,14,8,14,2016-07-02,2016,26
+16,Work,Rihanna Featuring Drake,12,1,21,2016-07-02,2016,26
+17,H.O.L.Y.,Florida Georgia Line,7,7,0,2016-07-02,2016,26
+18,Me Too,Meghan Trainor,31,5,31,2016-07-02,2016,26
+19,Love Yourself,Justin Bieber,1,31,1,2016-07-02,2016,26
+20,Send My Love (To Your New Lover),Adele,28,5,28,2016-07-02,2016,26
+21,Stressed Out,Twenty One Pilots,2,39,2,2016-07-02,2016,26
+22,Never Forget You,Zara Larsson & MNEK,16,13,18,2016-07-02,2016,26
+23,Controlla,Drake,24,21,7,2016-07-02,2016,26
+24,Lost Boy,Ruth B,25,17,25,2016-07-02,2016,26
+25,Cake By The Ocean,DNCE,22,9,35,2016-07-02,2016,26
+26,Pillowtalk,Zayn,20,1,20,2016-07-02,2016,26
+27,Let It Go,James Bay,32,26,32,2016-07-02,2016,26
+28,My House,Flo Rida,23,4,32,2016-07-02,2016,26
+29,Too Good,Drake Featuring Rihanna,33,7,33,2016-07-02,2016,26
+30,Low Life,Future Featuring The Weeknd,26,18,19,2016-07-02,2016,26
+31,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",29,27,12,2016-07-02,2016,26
+32,"Me, Myself & I",G-Eazy x Bebe Rexha,30,7,33,2016-07-02,2016,26
+33,Sorry,Justin Bieber,36,1,34,2016-07-02,2016,26
+34,Oui,Jeremih,35,19,24,2016-07-02,2016,26
+35,Cut It,O.T. Genasis Featuring Young Dolph,37,17,37,2016-07-02,2016,26
+36,Never Be Like You,Flume Featuring Kai,46,11,46,2016-07-02,2016,26
+37,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,43,12,43,2016-07-02,2016,26
+38,Sorry,Beyonce,41,11,8,2016-07-02,2016,26
+39,Unsteady,X Ambassadors,48,5,48,2016-07-02,2016,26
+40,For Free,DJ Khaled Featuring Drake,18,18,2,2016-07-02,2016,26
+41,Humble And Kind,Tim McGraw,40,30,19,2016-07-02,2016,26
+42,2 Phones,Kevin Gates,39,17,24,2016-07-02,2016,26
+43,Wicked,Future,44,9,44,2016-07-02,2016,26
+44,Kill Em With Kindness,Selena Gomez,52,3,52,2016-07-02,2016,26
+45,Pop Style,Drake Featuring The Throne,42,16,11,2016-07-02,2016,26
+46,Exchange,Bryson Tiller,38,26,34,2016-07-02,2016,26
+47,T-Shirt,Thomas Rhett,45,41,16,2016-07-02,2016,26
+48,Church Bells,Carrie Underwood,58,6,58,2016-07-02,2016,26
+49,Really Really,Kevin Gates,53,24,53,2016-07-02,2016,26
+50,Into You,Ariana Grande,47,47,5,2016-07-02,2016,26
+51,Uber Everywhere,MadeinTYO,55,11,55,2016-07-02,2016,26
+52,Wild Things,Alessia Cara,51,50,17,2016-07-02,2016,26
+53,Lights Come On,Jason Aldean,60,43,10,2016-07-02,2016,26
+54,No,Meghan Trainor,50,3,15,2016-07-02,2016,26
+55,I Hate U I Love U,gnash Featuring Olivia O'Brien,61,9,61,2016-07-02,2016,26
+56,Wake Up,Fetty Wap,63,5,63,2016-07-02,2016,26
+57,Wasted Time,Keith Urban,62,8,62,2016-07-02,2016,26
+58,Somewhere On A Beach,Dierks Bentley,57,35,20,2016-07-02,2016,26
+59,Head Over Boots,Jon Pardi,67,16,67,2016-07-02,2016,26
+60,From The Ground Up,Dan + Shay,59,59,4,2016-07-02,2016,26
+61,Record Year,Eric Church,68,9,68,2016-07-02,2016,26
+62,Came Here To Forget,Blake Shelton,54,36,15,2016-07-02,2016,26
+63,Treat You Better,Shawn Mendes,34,34,2,2016-07-02,2016,26
+64,Wherever I Go,OneRepublic,74,5,74,2016-07-02,2016,26
+65,Body,Dreezy Featuring Jeremih,62,13,62,2016-07-02,2016,26
+66,The Sound Of Silence,Disturbed,42,17,42,2016-07-02,2016,26
+67,Gold,Kiiara,79,4,79,2016-07-02,2016,26
+68,You Don't Own Me,Grace Featuring G-Eazy,71,7,71,2016-07-02,2016,26
+69,Hype,Drake,33,7,33,2016-07-02,2016,26
+70,Try Everything,Shakira,-,63,7,2016-07-02,2016,26
+71,Champions,"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner",-,1,-,2016-07-02,2016,26
+72,Peter Pan,Kelsea Ballerini,81,3,81,2016-07-02,2016,26
+73,Childs Play,Drake,72,49,7,2016-07-02,2016,26
+74,American Country Love Song,Jake Owen,83,4,83,2016-07-02,2016,26
+75,Make You Miss Me,Sam Hunt,82,3,82,2016-07-02,2016,26
+76,THat Part,ScHoolboy Q Featuring Kanye West,-,2,-,2016-07-02,2016,26
+77,Messin' Around,Pitbull Featuring Enrique Iglesias,64,64,7,2016-07-02,2016,26
+78,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,76,73,14,2016-07-02,2016,26
+79,Still Here,Drake,73,40,7,2016-07-02,2016,26
+80,Noise,Kenny Chesney,72,10,72,2016-07-02,2016,26
+81,Think Of You,Chris Young Duet With Cassadee Pope,78,40,18,2016-07-02,2016,26
+82,Grammys,Drake Featuring Future,77,38,7,2016-07-02,2016,26
+83,"Sit Still, Look Pretty",Daya,86,3,86,2016-07-02,2016,26
+84,Fix,Chris Lane,93,3,93,2016-07-02,2016,26
+85,With You Tonight / Hasta El Amanecer,Nicky Jam,89,4,89,2016-07-02,2016,26
+86,We Don't Talk Anymore,Charlie Puth Featuring Selena Gomez,-,78,2,2016-07-02,2016,26
+87,Broccoli,D.R.A.M. Featuring Lil Yachty,-,1,-,2016-07-02,2016,26
+88,Hymn For The Weekend,Coldplay,-,64,3,2016-07-02,2016,26
+89,Kiss It Better,Rihanna,96,62,11,2016-07-02,2016,26
+90,Sweatshirt,Jacob Sartorius,-,1,-,2016-07-02,2016,26
+91,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,99,86,4,2016-07-02,2016,26
+92,Money Longer,Lil Uzi Vert,-,1,-,2016-07-02,2016,26
+93,With You,Drake Featuring PARTYNEXTDOOR,85,47,7,2016-07-02,2016,26
+94,My PYT,Wale,-,1,-,2016-07-02,2016,26
+95,Ophelia,The Lumineers,90,66,8,2016-07-02,2016,26
+96,Might Not,Belly Featuring The Weeknd,84,68,17,2016-07-02,2016,26
+97,"Father Stretch My Hands, Pt. 1",Kanye West,37,8,37,2016-07-02,2016,26
+98,Toothbrush,DNCE,-,1,-,2016-07-02,2016,26
+99,Different For Girls,Dierks Bentley Featuring Elle King,-,98,2,2016-07-02,2016,26
+100,Faded,Alan Walker,92,80,8,2016-07-02,2016,26
+1,One Dance,Drake Featuring WizKid & Kyla,12,12,0,2016-07-09,2016,27
+2,Can't Stop The Feeling!,Justin Timberlake,1,7,1,2016-07-09,2016,27
+3,Panda,Desiigner,1,18,1,2016-07-09,2016,27
+4,Don't Let Me Down,The Chainsmokers Featuring Daya,19,19,0,2016-07-09,2016,27
+5,This Is What You Came For,Calvin Harris Featuring Rihanna,6,8,6,2016-07-09,2016,27
+6,Cheap Thrills,Sia Featuring Sean Paul,8,19,8,2016-07-09,2016,27
+7,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,5,4,17,2016-07-09,2016,27
+8,Needed Me,Rihanna,7,7,21,2016-07-09,2016,27
+9,Don't Mind,Kent Jones,10,8,10,2016-07-09,2016,27
+10,Ride,Twenty One Pilots,13,15,13,2016-07-09,2016,27
+11,I Took A Pill In Ibiza,Mike Posner,9,4,23,2016-07-09,2016,27
+12,Just Like Fire,P!nk,10,10,10,2016-07-09,2016,27
+13,7 Years,Lukas Graham,11,2,23,2016-07-09,2016,27
+14,Heathens,Twenty One Pilots,-,1,-,2016-07-09,2016,27
+15,Dangerous Woman,Ariana Grande,8,8,0,2016-07-09,2016,27
+16,Work,Rihanna Featuring Drake,1,22,1,2016-07-09,2016,27
+17,H.O.L.Y.,Florida Georgia Line,8,8,0,2016-07-09,2016,27
+18,Me Too,Meghan Trainor,6,6,0,2016-07-09,2016,27
+19,Send My Love (To Your New Lover),Adele,20,6,20,2016-07-09,2016,27
+20,Controlla,Drake,23,8,23,2016-07-09,2016,27
+21,Close,Nick Jonas Featuring Tove Lo,14,14,13,2016-07-09,2016,27
+22,Stressed Out,Twenty One Pilots,21,2,40,2016-07-09,2016,27
+23,Let It Go,James Bay,27,27,27,2016-07-09,2016,27
+24,Lost Boy,Ruth B,18,18,0,2016-07-09,2016,27
+25,Love Yourself,Justin Bieber,19,1,32,2016-07-09,2016,27
+26,My House,Flo Rida,28,4,33,2016-07-09,2016,27
+27,Too Good,Drake Featuring Rihanna,29,8,29,2016-07-09,2016,27
+28,Never Forget You,Zara Larsson & MNEK,22,13,19,2016-07-09,2016,27
+29,Cake By The Ocean,DNCE,25,9,36,2016-07-09,2016,27
+30,Pillowtalk,Zayn,26,1,21,2016-07-09,2016,27
+31,Low Life,Future Featuring The Weeknd,30,18,20,2016-07-09,2016,27
+32,Sorry,Beyonce,38,11,9,2016-07-09,2016,27
+33,For Free,DJ Khaled Featuring Drake,40,18,3,2016-07-09,2016,27
+34,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",31,27,13,2016-07-09,2016,27
+35,Never Be Like You,Flume Featuring Kai,36,12,36,2016-07-09,2016,27
+36,"Me, Myself & I",G-Eazy x Bebe Rexha,32,7,34,2016-07-09,2016,27
+37,Sorry,Justin Bieber,33,1,35,2016-07-09,2016,27
+38,Cut It,O.T. Genasis Featuring Young Dolph,35,35,18,2016-07-09,2016,27
+39,Kill Em With Kindness,Selena Gomez,44,4,44,2016-07-09,2016,27
+40,Oui,Jeremih,34,19,25,2016-07-09,2016,27
+41,Wicked,Future,43,10,43,2016-07-09,2016,27
+42,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,37,37,13,2016-07-09,2016,27
+43,Church Bells,Carrie Underwood,48,7,48,2016-07-09,2016,27
+44,Into You,Ariana Grande,50,6,50,2016-07-09,2016,27
+45,2 Phones,Kevin Gates,42,17,25,2016-07-09,2016,27
+46,Really Really,Kevin Gates,49,25,49,2016-07-09,2016,27
+47,Pop Style,Drake Featuring The Throne,45,16,12,2016-07-09,2016,27
+48,No,Meghan Trainor,54,3,16,2016-07-09,2016,27
+49,Lights Come On,Jason Aldean,53,43,11,2016-07-09,2016,27
+50,Treat You Better,Shawn Mendes,63,34,3,2016-07-09,2016,27
+51,Uber Everywhere,MadeinTYO,12,12,0,2016-07-09,2016,27
+52,Humble And Kind,Tim McGraw,41,30,20,2016-07-09,2016,27
+53,Wake Up,Fetty Wap,56,6,56,2016-07-09,2016,27
+54,Head Over Boots,Jon Pardi,59,17,59,2016-07-09,2016,27
+55,I Hate U I Love U,gnash Featuring Olivia O'Brien,10,10,0,2016-07-09,2016,27
+56,T-Shirt,Thomas Rhett,47,41,17,2016-07-09,2016,27
+57,Wasted Time,Keith Urban,9,9,0,2016-07-09,2016,27
+58,Wild Things,Alessia Cara,52,50,18,2016-07-09,2016,27
+59,Record Year,Eric Church,61,10,61,2016-07-09,2016,27
+60,Unsteady,X Ambassadors,39,39,6,2016-07-09,2016,27
+61,We Don't Talk Anymore,Charlie Puth Featuring Selena Gomez,86,3,86,2016-07-09,2016,27
+62,You Don't Own Me,Grace Featuring G-Eazy,68,8,68,2016-07-09,2016,27
+63,From The Ground Up,Dan + Shay,60,59,5,2016-07-09,2016,27
+64,Gold,Kiiara,67,5,67,2016-07-09,2016,27
+65,Broccoli,D.R.A.M. Featuring Lil Yachty,87,2,87,2016-07-09,2016,27
+66,Wherever I Go,OneRepublic,64,64,6,2016-07-09,2016,27
+67,Dark Necessities,Red Hot Chili Peppers,-,1,-,2016-07-09,2016,27
+68,Peter Pan,Kelsea Ballerini,72,4,72,2016-07-09,2016,27
+69,THat Part,ScHoolboy Q Featuring Kanye West,76,3,76,2016-07-09,2016,27
+70,Came Here To Forget,Blake Shelton,62,36,16,2016-07-09,2016,27
+71,The Sound Of Silence,Disturbed,66,42,18,2016-07-09,2016,27
+72,American Country Love Song,Jake Owen,74,5,74,2016-07-09,2016,27
+73,Make You Miss Me,Sam Hunt,75,4,75,2016-07-09,2016,27
+74,Noise,Kenny Chesney,80,72,11,2016-07-09,2016,27
+75,"Sit Still, Look Pretty",Daya,83,4,83,2016-07-09,2016,27
+76,Body,Dreezy Featuring Jeremih,65,62,14,2016-07-09,2016,27
+77,Hype,Drake,69,33,8,2016-07-09,2016,27
+78,All In My Head (Flex),Fifth Harmony Featuring Fetty Wap,-,1,-,2016-07-09,2016,27
+79,Champions,"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner",71,71,2,2016-07-09,2016,27
+80,My PYT,Wale,94,2,94,2016-07-09,2016,27
+81,Childs Play,Drake,73,49,8,2016-07-09,2016,27
+82,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,78,73,15,2016-07-09,2016,27
+83,Fix,Chris Lane,84,4,84,2016-07-09,2016,27
+84,Think Of You,Chris Young Duet With Cassadee Pope,81,40,19,2016-07-09,2016,27
+85,Hymn For The Weekend,Coldplay,88,64,4,2016-07-09,2016,27
+86,What The World Needs Now Is Love,Broadway For Orlando,-,1,-,2016-07-09,2016,27
+87,Try Everything,Shakira,70,63,8,2016-07-09,2016,27
+88,Ain't No Stopping Us Now,Kane Brown,-,1,-,2016-07-09,2016,27
+89,Toothbrush,DNCE,98,2,98,2016-07-09,2016,27
+90,With You Tonight / Hasta El Amanecer,Nicky Jam,85,85,5,2016-07-09,2016,27
+91,Still Here,Drake,79,40,8,2016-07-09,2016,27
+92,Why You Always Hatin?,YG Featuring Drake & Kamaiyah,-,1,-,2016-07-09,2016,27
+93,Grammys,Drake Featuring Future,82,38,8,2016-07-09,2016,27
+94,Different For Girls,Dierks Bentley Featuring Elle King,99,3,99,2016-07-09,2016,27
+95,Money Longer,Lil Uzi Vert,92,92,2,2016-07-09,2016,27
+96,Ophelia,The Lumineers,95,66,9,2016-07-09,2016,27
+97,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,91,86,5,2016-07-09,2016,27
+98,"Father Stretch My Hands, Pt. 1",Kanye West,97,37,9,2016-07-09,2016,27
+99,Kiss It Better,Rihanna,89,62,12,2016-07-09,2016,27
+100,Night's On Fire,David Nail,-,1,-,2016-07-09,2016,27
+1,One Dance,Drake Featuring WizKid & Kyla,13,13,0,2016-07-16,2016,28
+2,Can't Stop The Feeling!,Justin Timberlake,1,8,1,2016-07-16,2016,28
+3,Don't Let Me Down,The Chainsmokers Featuring Daya,4,20,4,2016-07-16,2016,28
+4,Panda,Desiigner,3,1,19,2016-07-16,2016,28
+5,This Is What You Came For,Calvin Harris Featuring Rihanna,9,9,0,2016-07-16,2016,28
+6,Cheap Thrills,Sia Featuring Sean Paul,20,20,0,2016-07-16,2016,28
+7,Needed Me,Rihanna,8,22,8,2016-07-16,2016,28
+8,Don't Mind,Kent Jones,9,9,9,2016-07-16,2016,28
+9,Ride,Twenty One Pilots,10,16,10,2016-07-16,2016,28
+10,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,7,4,18,2016-07-16,2016,28
+11,I Took A Pill In Ibiza,Mike Posner,4,24,4,2016-07-16,2016,28
+12,Just Like Fire,P!nk,10,11,10,2016-07-16,2016,28
+13,Send My Love (To Your New Lover),Adele,19,7,19,2016-07-16,2016,28
+14,H.O.L.Y.,Florida Georgia Line,17,9,17,2016-07-16,2016,28
+15,7 Years,Lukas Graham,13,2,24,2016-07-16,2016,28
+16,Me Too,Meghan Trainor,18,7,18,2016-07-16,2016,28
+17,Dangerous Woman,Ariana Grande,15,8,16,2016-07-16,2016,28
+18,Heathens,Twenty One Pilots,14,14,2,2016-07-16,2016,28
+19,Controlla,Drake,20,9,20,2016-07-16,2016,28
+20,Work,Rihanna Featuring Drake,16,1,23,2016-07-16,2016,28
+21,Close,Nick Jonas Featuring Tove Lo,14,14,14,2016-07-16,2016,28
+22,For Free,DJ Khaled Featuring Drake,33,18,4,2016-07-16,2016,28
+23,Stressed Out,Twenty One Pilots,22,2,41,2016-07-16,2016,28
+24,Let It Go,James Bay,23,23,28,2016-07-16,2016,28
+25,Lost Boy,Ruth B,24,24,19,2016-07-16,2016,28
+26,Sorry,Beyonce,32,11,10,2016-07-16,2016,28
+27,Too Good,Drake Featuring Rihanna,9,9,0,2016-07-16,2016,28
+28,Love Yourself,Justin Bieber,25,1,33,2016-07-16,2016,28
+29,My House,Flo Rida,26,4,34,2016-07-16,2016,28
+30,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",34,27,14,2016-07-16,2016,28
+31,Low Life,Future Featuring The Weeknd,18,21,18,2016-07-16,2016,28
+32,Sucker For Pain,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",-,1,-,2016-07-16,2016,28
+33,Never Forget You,Zara Larsson & MNEK,28,13,20,2016-07-16,2016,28
+34,Cake By The Ocean,DNCE,29,9,37,2016-07-16,2016,28
+35,Never Be Like You,Flume Featuring Kai,13,13,0,2016-07-16,2016,28
+36,Pillowtalk,Zayn,30,1,22,2016-07-16,2016,28
+37,Sorry,Justin Bieber,1,36,1,2016-07-16,2016,28
+38,Treat You Better,Shawn Mendes,50,34,4,2016-07-16,2016,28
+39,Cut It,O.T. Genasis Featuring Young Dolph,38,35,19,2016-07-16,2016,28
+40,All In My Head (Flex),Fifth Harmony Featuring Fetty Wap,78,2,78,2016-07-16,2016,28
+41,"Me, Myself & I",G-Eazy x Bebe Rexha,36,7,35,2016-07-16,2016,28
+42,Kill Em With Kindness,Selena Gomez,39,39,5,2016-07-16,2016,28
+43,Wicked,Future,41,41,11,2016-07-16,2016,28
+44,Oui,Jeremih,40,19,26,2016-07-16,2016,28
+45,Church Bells,Carrie Underwood,43,43,8,2016-07-16,2016,28
+46,Lights Come On,Jason Aldean,49,43,12,2016-07-16,2016,28
+47,Into You,Ariana Grande,44,44,7,2016-07-16,2016,28
+48,Broccoli,D.R.A.M. Featuring Lil Yachty,65,3,65,2016-07-16,2016,28
+49,We Don't Talk Anymore,Charlie Puth Featuring Selena Gomez,61,4,61,2016-07-16,2016,28
+50,Really Really,Kevin Gates,46,46,26,2016-07-16,2016,28
+51,Wasted Time,Keith Urban,57,10,57,2016-07-16,2016,28
+52,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,42,37,14,2016-07-16,2016,28
+53,Uber Everywhere,MadeinTYO,51,51,13,2016-07-16,2016,28
+54,I Hate U I Love U,gnash Featuring Olivia O'Brien,55,11,55,2016-07-16,2016,28
+55,Wake Up,Fetty Wap,53,53,7,2016-07-16,2016,28
+56,I Got The Keys,DJ Khaled Featuring Jay Z & Future,-,1,-,2016-07-16,2016,28
+57,Record Year,Eric Church,59,11,59,2016-07-16,2016,28
+58,Pop Style,Drake Featuring The Throne,47,16,13,2016-07-16,2016,28
+59,Head Over Boots,Jon Pardi,54,54,18,2016-07-16,2016,28
+60,Unsteady,X Ambassadors,39,7,39,2016-07-16,2016,28
+61,T-Shirt,Thomas Rhett,56,41,18,2016-07-16,2016,28
+62,No,Meghan Trainor,48,3,17,2016-07-16,2016,28
+63,Gold,Kiiara,64,6,64,2016-07-16,2016,28
+64,THat Part,ScHoolboy Q Featuring Kanye West,69,4,69,2016-07-16,2016,28
+65,From The Ground Up,Dan + Shay,63,59,6,2016-07-16,2016,28
+66,Wild Things,Alessia Cara,58,50,19,2016-07-16,2016,28
+67,Peter Pan,Kelsea Ballerini,68,5,68,2016-07-16,2016,28
+68,Wherever I Go,OneRepublic,66,64,7,2016-07-16,2016,28
+69,"Sit Still, Look Pretty",Daya,75,5,75,2016-07-16,2016,28
+70,Toothbrush,DNCE,89,3,89,2016-07-16,2016,28
+71,Famous,Kanye West,-,34,7,2016-07-16,2016,28
+72,Make You Miss Me,Sam Hunt,73,5,73,2016-07-16,2016,28
+73,American Country Love Song,Jake Owen,72,72,6,2016-07-16,2016,28
+74,Noise,Kenny Chesney,72,12,72,2016-07-16,2016,28
+75,You Don't Own Me,Grace Featuring G-Eazy,62,62,9,2016-07-16,2016,28
+76,Fix,Chris Lane,83,5,83,2016-07-16,2016,28
+77,Hymn For The Weekend,Coldplay,85,64,5,2016-07-16,2016,28
+78,My PYT,Wale,80,3,80,2016-07-16,2016,28
+79,The Sound Of Silence,Disturbed,71,42,19,2016-07-16,2016,28
+80,No Limit,Usher Featuring Young Thug,-,1,-,2016-07-16,2016,28
+81,Came Here To Forget,Blake Shelton,70,36,17,2016-07-16,2016,28
+82,Different For Girls,Dierks Bentley Featuring Elle King,94,4,94,2016-07-16,2016,28
+83,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,82,73,16,2016-07-16,2016,28
+84,Hype,Drake,77,33,9,2016-07-16,2016,28
+85,With You Tonight / Hasta El Amanecer,Nicky Jam,90,6,90,2016-07-16,2016,28
+86,She's Got A Way With Words,Blake Shelton,-,1,-,2016-07-16,2016,28
+87,Think Of You,Chris Young Duet With Cassadee Pope,84,40,20,2016-07-16,2016,28
+88,Childs Play,Drake,81,49,9,2016-07-16,2016,28
+89,Money Longer,Lil Uzi Vert,95,3,95,2016-07-16,2016,28
+90,Body,Dreezy Featuring Jeremih,76,62,15,2016-07-16,2016,28
+91,Grammys,Drake Featuring Future,93,38,9,2016-07-16,2016,28
+92,Try Everything,Shakira,87,63,9,2016-07-16,2016,28
+93,Still Here,Drake,91,40,9,2016-07-16,2016,28
+94,Night's On Fire,David Nail,100,2,100,2016-07-16,2016,28
+95,"Father Stretch My Hands, Pt. 1",Kanye West,98,37,10,2016-07-16,2016,28
+96,Luv,Tory Lanez,-,1,-,2016-07-16,2016,28
+97,No Problem,Chance The Rapper Featuring Lil Wayne & 2 Chainz,86,6,86,2016-07-16,2016,28
+98,Champions,"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner",79,71,3,2016-07-16,2016,28
+99,Why You Always Hatin?,YG Featuring Drake & Kamaiyah,92,92,2,2016-07-16,2016,28
+100,Dark Necessities,Red Hot Chili Peppers,67,67,2,2016-07-16,2016,28
